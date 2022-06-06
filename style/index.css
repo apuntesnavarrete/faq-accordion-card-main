@@ -58,7 +58,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 0 10px 15px 10px;
+    padding: 0 10px 25px 10px;
 
 }
 
@@ -72,4 +72,16 @@ body{
 }
 .question{
     margin: 10px 0;
+}
+.question_img{
+    background-image: url("../images/icon-arrow-down.svg");
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+    margin: 0 10px;
+}
+.question-content{
+    display: flex;
+    align-items: center;
+
 }
