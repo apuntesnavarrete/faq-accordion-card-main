@@ -84,5 +84,11 @@ body{
 .question-content{
     display: flex;
     align-items: center;
+    cursor: pointer;
+    justify-content: space-between;
 
 }
+.question-content:hover{
+    color: var(--Soft-red);
+}
+
