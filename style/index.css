@@ -34,6 +34,7 @@ body{
     background-color: var(--Soft-violet);
     display: flex;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .main{
@@ -57,12 +58,12 @@ body{
     color: var(--Very-dark-desaturated-blue);
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 0 10px 25px 10px;
+    padding: 0 20px 30px 20px;
 
 }
 
 .faq{
+    text-align: center;
     margin-top: 100px;
     font-size: 3em;
 }
