@@ -46,9 +46,13 @@ body{
 
 }
 .main_img{
+    background-image: url(/images/illustration-woman-online-mobile.svg);
+    background-repeat: no-repeat;
     width: 250px;
+    height: 250px;
+
     position: relative;
-    top: 74px;
+    top: 136px;
 
 }
 .information{
