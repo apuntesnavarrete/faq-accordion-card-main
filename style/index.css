@@ -96,3 +96,32 @@ body{
     color: var(--Soft-red);
 }
 
+@media (min-width: 1000px) {
+    body{
+        align-items: center;
+    }
+    .main_img{
+        background-image: url(/images/illustration-woman-online-desktop.svg);
+        background-position: right;
+        background-repeat: no-repeat; 
+        background-size: cover; 
+        height: 220px;
+        top: 0;
+        }
+    .main {
+    background-color: white;
+      flex-direction: row;
+      align-items: center;
+      border-radius: 20px;
+      left:0;
+
+    }
+    
+    .faq{
+        text-align: start;
+        margin-top: 20px;
+    }
+    .information{
+        padding: 30px 55px 30px 55px;
+    }
+  }
