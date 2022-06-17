@@ -28,6 +28,12 @@ html{
     
 }
 
+hr{
+    border: 0px solid black;
+    height: 1px;
+    background-color: var(--Light-grayish-blue);
+}
+
 body{
     font-size: 1rem;
     font-family: 'Kumbh Sans', sans-serif;
@@ -75,11 +81,11 @@ body{
     font-size: 3em;
 }
 .response{
-    margin: 5px 0;
+    margin-bottom: 7px;
     display: none;
 }
 .question{
-    margin: 10px 0;
+    margin: 15px 0;
 }
 .question_img{
     background-image: url("../images/icon-arrow-down.svg");
