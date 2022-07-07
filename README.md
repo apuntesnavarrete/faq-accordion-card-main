@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-I'll like recive feedback
+I'll like receive  feedback
